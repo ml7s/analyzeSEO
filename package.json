@@ -1,0 +1,31 @@
+{
+  "name": "analyzeseo",
+  "version": "1.0.0",
+  "description": "tool for analyze seo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ml7s/analyzeseo.git"
+  },
+  "keywords": [
+    "analyzeseo",
+    "website",
+    "check",
+    "seo",
+    "tool",
+    "ai"
+  ],
+  "author": "dev.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ml7s/analyzeseo/issues"
+  },
+  "homepage": "https://github.com/ml7s/analyzeseo#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
